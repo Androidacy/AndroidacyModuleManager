@@ -409,7 +409,7 @@ dependencies {
     implementation("org.apache.commons:commons-compress:1.26.1")
 
     // analytics
-    implementation("ly.count.android:sdk:24.1.1")
+    implementation("ly.count.android:sdk:24.7.4")
 
     // annotations
     implementation("org.jetbrains:annotations-java5:24.1.0")
